@@ -2,7 +2,7 @@
 
 # this must be run at the top-level directory of the git repo
 # this assumes that the current branch is master
-#  will add user-provided branch name later
+# will add user-provided branch name later
 
 # do a git add all changes check and ask if agree
 changes=$(git add -A -n)
